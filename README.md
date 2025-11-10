@@ -1,4 +1,4 @@
-# CS362 Unit Testing Project
+# Unit Testing Project
 
 This repository contains a small JavaScript project used to practice unit and integration testing with Jest. The codebase includes email and password verification utilities plus a Roman-numeral converter implemented using test-driven development (TDD).
 
