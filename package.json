@@ -1,0 +1,17 @@
+{
+  "name": "assignment-2",
+  "version": "1.0.0",
+  "description": "Unit Testing and TDD",
+  "scripts": {
+    "test": "jest"
+  },
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
